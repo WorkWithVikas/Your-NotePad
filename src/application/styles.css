@@ -1,0 +1,41 @@
+/* styles.css */
+
+/*
+ code  by Vikas Rathore 
+*/
+
+.root {
+    -fx-background-color: #f0f0f0;
+}
+
+.text-area {
+    -fx-background-color: #fff;
+    -fx-border-color: #ccc;
+    -fx-font-size: 16px;
+    -fx-padding: 10px;
+    -fx-border-radius: 5px;
+}
+
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 10px;
+    -fx-border-radius: 5px;
+}
+
+.button:hover {
+    -fx-background-color: #45a049;
+}
+
+.menu-bar {
+    -fx-background-color: #2e3b4e;
+}
+
+.menu-bar .menu-item {
+    -fx-text-fill: white;
+}
+
+.menu-bar .menu-item:hover {
+    -fx-background-color: #3b4c68;
+}
