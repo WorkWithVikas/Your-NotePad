@@ -1,6 +1,6 @@
 # YOUR NOTEPAD
- - YOUR   JAVAFX
-
+ -   JavaFX    PROJECT 
+ 
 
 # JavaFX Notepad App
 
